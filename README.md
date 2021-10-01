@@ -27,7 +27,7 @@ I am currently working on learning the ins and outs of making Android Apps.
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# GitHub Stats
+# :clipboard: GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nelson&layout=compact)](https://github.com/Alex-Nelson)
 
